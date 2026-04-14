@@ -18,7 +18,7 @@
 
 The project website is live and shows the concept, roadmap, and current progress of OSMBeam.
 
-- **Website:** [makafakings.win](https://makafakings.win)
+- **Website:** [makafakings.win](https://osmbeam.makafakings.win)
 - **Status:** Live
 - **Purpose:** Project showcase, roadmap, and updates
 
